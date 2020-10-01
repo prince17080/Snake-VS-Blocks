@@ -1,1 +1,1 @@
-# Snake-VS-Blocks
+# Snake VS Blocks
